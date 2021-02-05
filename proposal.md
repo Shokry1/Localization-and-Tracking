@@ -6,16 +6,14 @@ Perhaps the most important delivery since all your term work depends on it. You 
 
 1. The proposed problem statement and its motivation.
 2. Current state of the art accuracy for the proposed problem.
-3. A short survey of available models and solutions for the proposed problem.
-4. A detailed description of the model to be used from literature to build on. Also mention why you will use this particular model.
+3. A short survey of available techniques for the proposed problem.
+4. A detailed description of the technique used from literature to build on. Also mention why you will use this particular model.
 5. The proposed updates to the literature model. Also mention what benefit do you expect from this update and why you think it is a good idea to try it.
 6. Write about how will you evaluate your results, what kind of evaluation metric you will use to compare your results, and what types of plots/graphs will be used to point out the comparison results.
-7. A survey of available datasets for your course project problem. If your proposed problem is a reinforcement learning problem, then provide a survey of available environments that your model can work on.
-8. A detailed description of the dataset (or environment for reinforcement learning) to be used. Also mention why will you use this particular dataset.
-9. **Your graduation project (or thesis) brief problem statement, even if it is not the same as the proposed course problem statement.**
-10. **If your proposal is related to your graduation project (or thesis), point out the differences that will be made between this problem statement and your graduation project (thesis) problem statement.**
-11. Mention all available online resources/papers you will collect during the survey.
-12. Each team member contribution. You should state only the contribution in the technical work, so writing the document for example shouldn't be included.
+7. A survey of available datasets for your course project problem.
+8. A detailed description of the dataset to be used. Also mention why will you use this particular dataset.
+10. Mention all available online resources/papers you will collect during the survey.
+11. Each team member contribution. You should state only the contribution in the technical work, so writing the document for example shouldn't be included.
 
 ## Deliverables
 
