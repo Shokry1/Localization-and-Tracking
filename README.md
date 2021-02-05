@@ -2,20 +2,19 @@
 
 ## 1 - Overview
 
-The course project is an opportunity for you to apply what you have learned in class to a problem of your interest.
+The course project is an opportunity for you to apply what you will learn during the course to a problem of your interest.
+You can check the projects document:
 
-You can check the past project websites:
-
-* [Alexandria University - CS 435 Deep Learning - Spring 2020](https://raw.githack.com/KhaledElTahan/DeepLearning/master/Project/assets/au_spring2020_website/home.html)
+* [AUC Possible Projects 2021](https://docs.google.com/document/d/1y2M0J81s_fdOIbiYLun5EtJ755Njui5OCis1koolKpo/edit?usp=sharing)
 
 ## 2 - Project Timeline
 
 You're required to submit the following:
 
-1. Project Proposal (25% of the grades)
+1. Project Proposal (20% of the grades)
 2. Proposal Update
-3. Project Milestone 1 (25% of the project grades)
-4. Project Milestone 2 (10% of the project grades)
+3. Project Milestone 1 (20% of the project grades)
+4. Project Milestone 2 (20% of the project grades)
 5. Final Presentation (40% of the project grades)
 
 According to the provided term timeline.
