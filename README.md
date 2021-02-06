@@ -11,11 +11,11 @@ You can check the projects document:
 
 You're required to submit the following:
 
-1. Project Proposal
-2. Proposal Update (20% of the grades)
-3. Project Milestone 1 (20% of the project grades)
-4. Project Milestone 2 (20% of the project grades)
-5. Final Presentation (40% of the project grades)
+1. Project Proposal - Due date is Feb 18.
+2. Proposal Update due to (20% of the grades - tentative) - Due date is Feb 25.
+3. Project Milestone 1 (20% of the project grades - tentative) - Due date is Mar 18.
+4. Project Milestone 2 (20% of the project grades - tentative) - Due date is April 15.
+5. Final Presentation (40% of the project grades - tentative) - Due date is Mai 3.
 
 According to the provided term timeline.
 
