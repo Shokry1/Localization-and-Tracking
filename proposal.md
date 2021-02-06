@@ -7,13 +7,13 @@ Perhaps the most important delivery since all your term work depends on it. You 
 1. The proposed problem statement and its motivation.
 2. Current state of the art accuracy for the proposed problem.
 3. A short survey of available techniques for the proposed problem.
-4. A detailed description of the technique used from literature to build on. Also mention why you will use this particular model.
-5. The proposed updates to the literature model. Also mention what benefit do you expect from this update and why you think it is a good idea to try it.
+4. A detailed description of the technique used from literature to build on. Also mention why you will use this particular technique.
+5. The proposed updates to the basic technique. Also mention what benefit do you expect from this update and why you think it is a good idea to try it.
 6. Write about how will you evaluate your results, what kind of evaluation metric you will use to compare your results, and what types of plots/graphs will be used to point out the comparison results.
 7. A survey of available datasets for your course project problem.
 8. A detailed description of the dataset to be used. Also mention why will you use this particular dataset.
-10. Mention all available online resources/papers you will collect during the survey.
-11. Each team member contribution. You should state only the contribution in the technical work, so writing the document for example shouldn't be included.
+9. Mention the available online resources/papers you will collect during the survey.
+10. Each team member contribution. You should state only the contribution in the technical work, so writing the document for example shouldn't be included.
 
 ## Deliverables
 
@@ -21,7 +21,7 @@ Perhaps the most important delivery since all your term work depends on it. You 
 
 ## Guidelines for choosing the problem
 
-Those guidelines are not mandatory, however, they might help you avoiding struggles past students faced.
+Those guidelines are not mandatory, however, they might help you avoiding struggles past students faced. I recommend reading [AUC Possible Projects 2021](https://docs.google.com/document/d/1y2M0J81s_fdOIbiYLun5EtJ755Njui5OCis1koolKpo/edit?usp=sharing).
 
 ### 1. Resources
 
@@ -29,18 +29,10 @@ The following are great hubs to search for a paper with code.
 
 * [Papers with Code SOTA](https://paperswithcode.com/sota)
 * [Kaggle Datasets](https://www.kaggle.com/datasets)
-* [Made with ML](https://madewithml.com/)
-
-### 2. Problem Domain
-
-I highly recommend you to avoid any problem domain that works with videos unless you're sure the training time is feasible.
 
 ### 3. Code
 
-I recommend you to find an already implemented paper and work on top of it, but the implementation code should follow the next guidelines for smooth future updates.
-
-* Framework: Choose recent code with recent framework, for example tensorflow 2.x or pytorch.
-* Weights: Make sure the pretrained weights are already provided.
+I recommend you to find an already a basic paper and work on top of it.
 
 ### 4. Dataset
 
@@ -101,7 +93,3 @@ You need to be precise, discrete, and organized.
 ### 4. Can I use the same problem proposed in selected proposals or past project website?
 
 Unless you provide a major update I will most probably reject your proposal.
-
-### 5. Can I use the same problem statement I use in my graduation project (or thesis)?
-
-You can use the same domain, but you have to tackle a different issue other than the one you're investigating in your graduation project (thesis).
