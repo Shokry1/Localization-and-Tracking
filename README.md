@@ -11,8 +11,8 @@ You can check the projects document:
 
 You're required to submit the following:
 
-1. Project Proposal (20% of the grades)
-2. Proposal Update
+1. Project Proposal
+2. Proposal Update (20% of the grades)
 3. Project Milestone 1 (20% of the project grades)
 4. Project Milestone 2 (20% of the project grades)
 5. Final Presentation (40% of the project grades)
