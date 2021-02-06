@@ -32,23 +32,11 @@ The following are great hubs to search for a paper with code.
 
 ### 3. Code
 
-I recommend you to find an already a basic paper and work on top of it.
+I recommend you to find a basic paper and work on top of it.
 
 ### 4. Dataset
 
 Make sure the dataset is not huge to avoid problems for downloading, preprocessing, loading on memory (RAM), and training time.
-
-### 5. Training Resources & Time
-
-Most common problem is that you cannot train the network due to the lack of resources to meet the required training time, make sure you have this in mind while selecting your problem.
-
-You need to ask your self the following questions:
-
-1. Can I train the model on a local machine?
-2. Can I train the model on Google Colab?
-3. Can I train the model on other cloud service?
-
-If you have an access to credit card, then [this tutorial: 'Using Azure Free 200$ Credit for Deep Learning'](https://youtu.be/EFVU8EnibXw) might be beneficial to you.
 
 ## Selected Proposals
 
