@@ -27,30 +27,17 @@ Those guidelines are not mandatory, however, they might help you avoiding strugg
 
 The following are great hubs to search for a paper with code.
 
+* The Android Collector
 * [Papers with Code SOTA](https://paperswithcode.com/sota)
 * [Kaggle Datasets](https://www.kaggle.com/datasets)
 
-### 3. Code
+### 2. Code
 
 I recommend you to find a basic paper and work on top of it.
 
-### 4. Dataset
+### 3. Dataset
 
 Make sure the dataset is not huge to avoid problems for downloading, preprocessing, loading on memory (RAM), and training time.
-
-## Selected Proposals
-
-The following are selected proposals from past years, I highly recommend you to take a look on them before writing your proposal.
-
-* [Text to Image](assets/selected_proposals/text_to_image.pdf)
-* [Snake Game](assets/selected_proposals/snake_game.pdf)
-* [Moving Object Detection](assets/selected_proposals/moving_object_detection.pdf)
-* [Food Image Recognition](assets/selected_proposals/food_image_recognition.pdf)
-* [Image Colorization](assets/selected_proposals/image_colorization.pdf)
-* [Artistic Style Transfer For Videos](assets/selected_proposals/style_transfer.pdf)
-* [Anomaly detection using AEs](assets/selected_proposals/anomaly_detection.pdf)
-
-**Note**: those proposals might have been made under different requirements, just because any of them doesn't meet any of our requirements doesn't give you the ability to do the same.
 
 ## FAQs
 
@@ -73,11 +60,11 @@ The following are some examples of unacceptable work in proposals:
 
 * Just copying one or two papers into the proposal and sort the proposal in a different order.
 * Having sentences like "We achieved the state of the art results", which shows clearly that you didn't write this proposal specifically to me.
-* Some proposals assume that the reader is aware of all the world terminology, sentences like "We will use LR image" and I'm left to figure out what is LR.
-* Some proposals don't state clearly the basemodel or any model, sentences like "we will use sequence to sequence". How am I supposed to know what type of model you will use from the sequence to sequence family?
+* Assume that the reader is aware of all the world terminology, sentences like "We will use Dead-reckoning to track the users" and I'm left to figure out what is Dead-reckoning.
+* Some proposals don't state clearly the base technique, sentences like "we will use fingerprinting technique". How am I supposed to know what type of model you will use from the fingerprinting family?
 
 You need to be precise, discrete, and organized.
 
-### 4. Can I use the same problem proposed in selected proposals or past project website?
+### 4. Can I use the same problem proposed in selected proposals ?
 
 Unless you provide a major update I will most probably reject your proposal.
