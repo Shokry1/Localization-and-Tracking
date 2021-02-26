@@ -21,7 +21,7 @@ You are required to make a presentation containing the following.
 3. A live presentation showing your work (will be in lecture time).
 
 ## Selected Presentations
-1. [Floor Localization](https://drive.google.com/file/d/1GC4UAwNgL6_Y4b1UPxdfYvv80k0h7GWq/view?usp=sharing)
+1. [Floor Localization](https://drive.google.com/file/d/10OfpKUI8cgvoD_vcZLXGTZ-iuzjMzl2U/view?usp=sharing)
  
 ## Notes
 
