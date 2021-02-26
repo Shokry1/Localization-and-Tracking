@@ -22,7 +22,7 @@ You are required to make a presentation containing the following.
 
 ## Selected Presentations
 1. [Floor Localization](assets/selected_ms1_presentations/localization.pdf)
-
+ 
 ## Notes
 
 1. You have to make the presentation using the submitted slides, a penalty is applied otherwise.
